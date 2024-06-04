@@ -1,5 +1,6 @@
 ![스크린샷 2024-06-05 오전 8 19 14](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/65776834-eb52-460f-b690-f638b3da477c)
 ![스크린샷 2024-06-05 오전 8 19 27](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/06ee2d74-e461-4682-8436-c1f5e6c78a1c)
+![스크린샷 2024-06-05 오전 8 26 21](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/9e594219-e723-48ab-9249-0f1e2788fae6)
 ![스크린샷 2024-06-05 오전 8 19 42](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/9b8e830e-71c9-49dd-b644-f946f81630cb)
 ![스크린샷 2024-06-05 오전 8 19 49](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/bf4d8f2c-502a-430b-94b3-7c16fd7c1a87)
 ![스크린샷 2024-06-05 오전 8 19 59](https://github.com/naayoung-kang/CoCo-FinalProject-/assets/146931584/44b1a51a-c80d-409b-9ca7-5712f0a7b726)
