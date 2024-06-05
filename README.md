@@ -3,12 +3,14 @@
 <br/><br/>
 
 ## 프로젝트 소개
+Colaboration Code
+팀원 모집 및 정보, 일상 공유 기능을 가진 커뮤니티와 프로젝트 진행상황 공유 및 채팅 기능을 가진 협업 페이지를 융합한 홈페이지 입니다.
 
 <br/><br/>
 
 ## 개발 환경
 <p>개발 도구</p>
--Eclipse<br/>
+-Spring<br/>
 -VScode<br/>
 -DBeaver<br/>
 -GitHub<br/>
@@ -18,7 +20,11 @@
 - Servlet & jsp<br/>
 - lombok<br/>
 - ApacheTomcat<br/>
-- Oracle<br><br>
+- Oracle<br />
+- Redis<br><br>
+<p>Cloud Services</p>
+- AWS<br/>
+- Amazon EC2<br><br>
 <p>FRONT-END</p>
 - HTML<br/>
 - CSS<br/>
